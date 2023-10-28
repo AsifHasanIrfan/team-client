@@ -253,13 +253,13 @@ export const dashboardSidebarLinks: DashboardSidebarLink[] = [
     pageTitle: 'Users Salary',
     forAdmin: true,
   },
-  {
-    icon: <ReportIcon />,
-    url: '/dashboard/privacy-policy',
-    text: 'Privacy & Policy',
-    pageTitle: 'Privacy & Policy',
-    forAdmin: true,
-  },
+  // {
+  //   icon: <ReportIcon />,
+  //   url: '/dashboard/privacy-policy',
+  //   text: 'Privacy & Policy',
+  //   pageTitle: 'Privacy & Policy',
+  //   forAdmin: true,
+  // },
   {
     icon: <DashboardCalenderIcon />,
     url: '/dashboard/contact',
